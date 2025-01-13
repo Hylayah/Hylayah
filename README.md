@@ -2,7 +2,7 @@
 
 **`Frontend Developer & UX/UI Designer`**
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/arturchrapowicz/))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/arturchrapowicz/)
 
 From Poland 🇵🇱, living in South Korea 🇰🇷, graduated in the UK 🇬🇧. I'm a huge fan of AI, modern web technologies, and how websites influence business outcomes. I focus on creating user-centric websites and leading client's projects from start to finish. I also enjoy integrating AI tools to improve design, usability, and accessibility. When I'm writing code, you can find me near nature either hiking in the mountains or swimming in the sea.
 
